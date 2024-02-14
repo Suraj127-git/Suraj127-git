@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/suraj shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj shetty" height="30" width="40" /></a>
 <a href="https://hashnode.com/@SurajShetty" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo" alt="suraj shetty" height="30" width="40" /></a>
-<a href="https://twitter.com/SurajSh55159746" target="blank"><img align="center" src="https://www.svgrepo.com/show/353856/hashnode.svg" alt="suraj shetty" height="30" width="40" /></a>
+<a href="https://twitter.com/SurajSh55159746" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFaiHc8Bb0NpQbe8fXs_WjYGWnXpNosuEZtEEVo1LWg&s" alt="suraj shetty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
