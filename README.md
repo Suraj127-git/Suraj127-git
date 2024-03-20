@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Shetty</h1>
-<h3 align="center">A experienced Software Engineer and passionate DevOps from India</h3>
+<h3 align="center">A experienced Software Developer and passionate DevOps from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
