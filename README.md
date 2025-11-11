@@ -3,13 +3,19 @@
 <div align="center">
 
   <h1 style="font-size:3rem; font-weight:800; color:#6366f1;">👋 Hi, I'm Suraj Shetty</h1>
-  <h3 style="color:#9ca3af; font-weight:500;">Backend Developer • DevOps Enthusiast • Open Source Builder</h3>
+  <h3 style="color:#9ca3af; font-weight:500;">Senior Backend Software Engineer • DevOps Enthusiast • AI Integrator</h3>
 
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding" width="300" style="border-radius:1rem; margin:20px auto; box-shadow:0px 0px 20px rgba(99,102,241,0.4);" />
 
-  <p style="color:#d1d5db; max-width:700px; margin:auto; font-size:1.1rem;">
-    Passionate about building <strong style="color:#818cf8;">high-performance backends</strong> and <strong style="color:#818cf8;">scalable cloud systems</strong>.<br/>
-    I work with <strong style="color:#a5b4fc;">PHP, Go, and JavaScript</strong>, and I love exploring <strong style="color:#a5b4fc;">Docker, Kubernetes, and AI integrations</strong>.
+  <p style="color:#d1d5db; max-width:750px; margin:auto; font-size:1.1rem;">
+    I'm a <strong style="color:#818cf8;">Senior Backend Software Engineer</strong> with over five years of experience specializing in 
+    <strong style="color:#a5b4fc;">PHP (Laravel)</strong>, <strong style="color:#a5b4fc;">Python (FastAPI)</strong>, and <strong style="color:#a5b4fc;">Core Java</strong>.<br/>
+    I design and implement <strong style="color:#818cf8;">scalable, high-performance systems</strong> using technologies like 
+    <strong style="color:#a5b4fc;">RabbitMQ, Kafka, MySQL, MongoDB, Redis, and Elasticsearch</strong>.<br/>
+    Skilled in <strong style="color:#818cf8;">Docker, Kubernetes, and modern DevOps practices</strong>, I ensure seamless deployment and management of 
+    <strong style="color:#818cf8;">containerized microservices</strong>.<br/>
+    Passionate about integrating <strong style="color:#a5b4fc;">AI technologies</strong> such as <strong>LangChain, LangGraph, Qdrant, Hugging Face, and Ollama</strong> 
+    to build intelligent and production-ready solutions.
   </p>
 
   <div style="margin-top:25px;">
@@ -45,28 +51,24 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,go,js,laravel,docker,kubernetes,postgres,mysql,redis,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,java,fastapi,laravel,docker,kubernetes,mysql,rabbitmq,kafka,redis,elasticsearch,aws&theme=dark" />
 </p>
 
 ---
 
 ### 🚀 What I’m Exploring
 
-* 🧩 DevOps tools: **Kubernetes, Traefik, GitOps, CI/CD**
-* 🤖 AI Integration: **LangChain, Ollama, LLM orchestration**
-* ☁️ Cloud Infrastructure: **AWS, cost-optimization, monitoring**
+* 🧩 **DevOps Excellence:** Kubernetes, Traefik, CI/CD automation  
+* 🤖 **AI Integration:** LangChain, LangGraph, Hugging Face, Qdrant, Ollama  
+* ☁️ **Cloud & Scalability:** AWS, monitoring, and cost optimization  
+* ⚡ **System Design:** High-concurrency microservices with real-time processing  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj127-git&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj127-git&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj127-git&layout=compact&theme=tokyonight" />
 </p>
 
 ---
