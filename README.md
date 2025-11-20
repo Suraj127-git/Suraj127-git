@@ -51,7 +51,7 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,java,fastapi,laravel,docker,kubernetes,mysql,rabbitmq,kafka,redis,elasticsearch,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,fastapi,laravel,docker,kubernetes,mysql,rabbitmq,kafka,redis,elasticsearch,aws&theme=dark" />
 </p>
 
 ---
