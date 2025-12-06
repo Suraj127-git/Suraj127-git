@@ -65,14 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj127-git&theme=tokyonight" height="160" />
-</p>
-
----
-
 ### ☕ Support Me
 
 <p align="center">
