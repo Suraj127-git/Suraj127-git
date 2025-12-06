@@ -9,7 +9,7 @@
 
   <p style="color:#d1d5db; max-width:750px; margin:auto; font-size:1.1rem;">
     I'm a <strong style="color:#818cf8;">Senior Backend Software Engineer</strong> with over five years of experience specializing in 
-    <strong style="color:#a5b4fc;">PHP (Laravel)</strong>, <strong style="color:#a5b4fc;">Python (FastAPI)</strong>, and <strong style="color:#a5b4fc;">Core Java</strong>.<br/>
+    <strong style="color:#a5b4fc;">PHP (Laravel)</strong>, <strong style="color:#a5b4fc;">Python (FastAPI)</strong>.<br/>
     I design and implement <strong style="color:#818cf8;">scalable, high-performance systems</strong> using technologies like 
     <strong style="color:#a5b4fc;">RabbitMQ, Kafka, MySQL, MongoDB, Redis, and Elasticsearch</strong>.<br/>
     Skilled in <strong style="color:#818cf8;">Docker, Kubernetes, and modern DevOps practices</strong>, I ensure seamless deployment and management of 
